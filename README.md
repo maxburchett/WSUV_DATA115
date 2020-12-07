@@ -17,7 +17,8 @@ I started my analysis by comparing the 2019-2020 playoff teams to their regular 
 
 ## Analysis
 With the visualization showing low to no correlation between better performance and FT%, I wanted to know if this trend continued throughout other recent seasons or if this past season was just a fluke. So I created a second visualization that overlaid the playoff free throw performance from the previous 5 seasons of the playoff teams. This visualization also points to free throw percentage not having strong correlation to playoff performance.
-![](https://raw.githubusercontent.com/maxburchett/WSUV_DATA115/master/15_19_Playoff_FT.png)
+
+![2015-2020 Playoff FT% Performances vs. Playoff Finish](https://raw.githubusercontent.com/maxburchett/WSUV_DATA115/master/15_19_Playoff_FT.png)
 
 ## Conclusion
 Once all is said and done, there is another key thing to consider. While basketball is a team sport, it is still filled with individual players. If you’re in the NBA you’re already the best in the basketball profession. But there are some players who are even more special, they just seem to have that “X-factor”. No matter what the stats say on paper, players like LeBron James can completely impact and sway a game’s outcome. There aren’t really any stats to accommodate for a force of this nature. I think that’s what makes sports like basketball so entertaining, because even with all of the stats and analysis, you still have to play the game to find a winner.
