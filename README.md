@@ -22,3 +22,13 @@ With the visualization showing low to no correlation between better performance 
 
 ## Conclusion
 Once all is said and done, there is another key thing to consider. While basketball is a team sport, it is still filled with individual players. If you’re in the NBA you’re already the best in the basketball profession. But there are some players who are even more special, they just seem to have that “X-factor”. No matter what the stats say on paper, players like LeBron James can completely impact and sway a game’s outcome. There aren’t really any stats to accommodate for a force of this nature. I think that’s what makes sports like basketball so entertaining, because even with all of the stats and analysis, you still have to play the game to find a winner.
+## Reference Descriptions
+The raw data that is mentioned in the above readme is in this github repository as: 14_15_Playoff_Data.csv, 15_16_Playoff_Data.csv, 16_17_Playoff_Data.csv, 17_18_Playoff_Data.csv, 18_19_Playoff_Data.csv. These were used in the DATA115_PersonalProject_Analysis.ipynb notebook. The combined dataset that was processed in excel and used in the first notebook was uploaded as 19_20_FT_Data.csv. This was used in the DATA115_PeronalProject.ipynb notebook. All NBA statistics data was retrieved from basketball-reference.com.
+## References
+https://www.basketball-reference.com/leagues/NBA_2020.html
+https://www.basketball-reference.com/playoffs/NBA_2020.html#all_team-stats-per_game
+https://www.basketball-reference.com/playoffs/NBA_2015.html
+https://www.basketball-reference.com/playoffs/NBA_2016.html
+https://www.basketball-reference.com/playoffs/NBA_2017.html
+https://www.basketball-reference.com/playoffs/NBA_2018.html
+https://www.basketball-reference.com/playoffs/NBA_2019.html
