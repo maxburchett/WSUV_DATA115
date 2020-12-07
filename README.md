@@ -1,4 +1,4 @@
-# DATA115 Personal Data Project
+# WSUV_DATA115 Personal Data Project
 Fall 2020
 
 
